@@ -1,6 +1,6 @@
 # SSLAB GitHub Navigator
 
-- ## [open-source](https://github.com/nycu-sslab/private_navigator/blob/master/open-source.md)
+- ## [open-source](https://github.com/nycu-sslab/repo-navigator/blob/master/open-source.md)
 - ## [courses (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/courses.md)
 - ## [internal (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/internal.md)
 - ## [members (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/members.md)
