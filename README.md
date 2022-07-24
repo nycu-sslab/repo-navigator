@@ -8,4 +8,4 @@
 - ## [publications (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/publications.md)
 - ## [srcs (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/srcs.md)
 - ## [theses (member only)](https://github.com/nycu-sslab/private_navigator/blob/master/theses.md)
-- ## [wiki](https://github.com/nycu-sslab/wiki)
+- ## [wiki (member only)](https://github.com/nycu-sslab/wiki)
